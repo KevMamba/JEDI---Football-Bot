@@ -1,5 +1,4 @@
-#JEDI---Football-Bot 
-
+# Joy of Engineering Design (JEDI)
 2nd semester
 
 Football Bot - End of semester project
